@@ -1,6 +1,6 @@
 {
-  "homepage": "https://sai-soma.github.io/news-portal",
-  "name": "news-portal",
+  "homepage": "https://sai-soma.github.io/News-Website/",
+  "name": "News-Website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
